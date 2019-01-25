@@ -1,0 +1,5 @@
+Logins|5|5|5
+Emails sent|13|13|15
+Emails opened|18|18|20
+Emails deleted|9|12|13
+Time online|139.38|129.34|173.68
